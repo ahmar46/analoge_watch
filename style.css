@@ -17,7 +17,7 @@ body {
 #circle {
 	width: 25px;
 	height: 25px;
-	background-color: #fe834d;
+	background-color: #ff6b2c;
 	border-radius: 50%;
 	position: absolute;
 	top: 53%;
@@ -48,7 +48,7 @@ body {
 }
 
 #date {
-	border: 2px solid #fe834d;
+	border: 2px solid #180802;
 	width: 70px;
 	position: absolute;
 	top: 67%;
