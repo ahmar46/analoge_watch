@@ -1,4 +1,4 @@
-### This is for my Instagram Page @electrifying_codes
+### Th
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
