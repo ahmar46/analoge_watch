@@ -1,4 +1,4 @@
-### This i
+### This is
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
