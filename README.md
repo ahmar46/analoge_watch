@@ -1,4 +1,4 @@
-### This is c
+### This is coo
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
