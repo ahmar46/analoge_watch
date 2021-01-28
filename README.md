@@ -1,4 +1,4 @@
-### This is cool l
+### This is cool loo
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
