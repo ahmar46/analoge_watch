@@ -1,4 +1,4 @@
-### This is cool look
+### This is cool looki
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
