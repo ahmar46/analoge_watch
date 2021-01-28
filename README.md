@@ -1,4 +1,4 @@
-### Th
+### Thi
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
