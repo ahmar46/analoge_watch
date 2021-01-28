@@ -1,4 +1,4 @@
-### This is coo
+### This is cool
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
