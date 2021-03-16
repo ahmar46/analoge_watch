@@ -1,4 +1,4 @@
-### This is a cool looking Analo
+### This is a cool looking Analogue
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
