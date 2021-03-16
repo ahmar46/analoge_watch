@@ -1,4 +1,4 @@
-### This is a cool looking Ana
+### This is a cool looking Anal
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
