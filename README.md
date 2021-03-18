@@ -1,4 +1,4 @@
-### This is a cool looking Analogue Watc
+### This is a cool looking Analogue Watch 
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
